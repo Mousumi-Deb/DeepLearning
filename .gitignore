@@ -5,6 +5,7 @@ __pycache__/
 
 Dataset/
 log\train/
+images/
 
 # C extensions
 *.so
