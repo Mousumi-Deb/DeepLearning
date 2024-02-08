@@ -1,3 +1,5 @@
+![image](https://github.com/Mousumi-Deb/DeepLearning/assets/122649718/1c0737da-303a-465f-bdcd-bf8c0b86764b)
+
 I made a project that can understand pictures better. It's like teaching a computer to see and recognize things in photos. We use fancy technology called neural networks and deep learning for this.
 
 The neural network component employs deep learning architectures to simulate human cognitive processes, enabling the system to discern intricate patterns and relationships within the input images. This ensures a robust and adaptable solution capable of handling a wide range of visual data.
